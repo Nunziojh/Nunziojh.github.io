@@ -3,20 +3,20 @@
 export const portfolioData = {
   // PROFILO PERSONALE
   profile: {
-    name: "Mario Bianchi",
+    name: "Nunzio Messineo",
     title: "Machine Learning Engineer",
     subtitle: "Specializzato in Deep Learning e AI Solutions",
     bio: "Appassionato di machine learning e intelligenza artificiale. Sviluppo modelli predittivi avanzati e soluzioni AI scalabili. Con 4+ anni di esperienza nel settore tech, ho lavorato su progetti di NLP, Computer Vision e sistemi di recommendation.",
-    image: "https://via.placeholder.com/200?text=Foto+Profilo", // Cambia con tua foto
+    image: "public\chicago_rooftop.jpg", // Cambia con tua foto
   },
 
   // INFORMAZIONI DI CONTATTO
   contact: {
-    email: "mario.bianchi@email.com",
-    phone: "+39 123 456 7890",
-    linkedin: "https://linkedin.com/in/mario-bianchi",
-    github: "https://github.com/mariobianchi",
-    portfolio: "https://tuoportfolio.com", // Opzionale
+    email: "nunziomessineo7@email.com",
+    phone: "+39 3458785045",
+    linkedin: "https://www.linkedin.com/in/nunzio-messineo-7a42862b8/",
+    github: "https://github.com/Nunziojh",
+    portfolio: "https://nunziojh.github.io/", // Opzionale
   },
 
   // ESPERIENZE LAVORATIVE
